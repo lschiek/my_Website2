@@ -40,9 +40,6 @@ disqusShortname = ""
     title = "Luca Schiek"
     subtitle = "MFA 2021 & HSG alumnus"
     menu = "Menu"
-    logo = "landingpage.png"
-    # Optional logo as brand stored in img/
-    # logo = "logo.png"
 
     [[params.navigation.links]]
       name = "Home"
@@ -80,10 +77,8 @@ disqusShortname = ""
 
   # Banner section
   [params.banner]
-    # To change the background image on the homepage banner, replace 'banner.jpg' in
-    # the 'static/img' folder.
     title = "Hi, my name is Luca"
-    subtitle = "MFA 2021 @ London Business School | HSG alumnus"
+    subtitle = "MFA 2021 @London Business School | HSG alumnus"
     buttonText = "Get Started"
 
 
@@ -93,10 +88,10 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
-      url = "blogs/aliquam"
+      title = "About me"
+      subtitle = "My Personal Journey"
+      image = "aboutme.jpg"
+      url = "blogs/mypersonaljourney"
 
     [[params.tiles.showcase]]
       title = "Tempus"
