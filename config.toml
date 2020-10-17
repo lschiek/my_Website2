@@ -38,8 +38,9 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Luca Schiek"
-    subtitle = "Insights to current financial affairs"
+    subtitle = "MFA 2021 & HSG alumnus"
     menu = "Menu"
+    logo = "landingpage.png"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
