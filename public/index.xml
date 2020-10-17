@@ -8,11 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aliquam</title>
-      <link>/blogs/aliquam/</link>
+      <title>About me</title>
+      <link>/blogs/aboutme/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>/blogs/aliquam/</guid>
+      <guid>/blogs/aboutme/</guid>
+      <description>… where it all started
+Dear Visitor,
+my name is Luca Schiek and I am the creator of this page. I am 22 years old and was born in Krefeld, Germany. During my high school years at the Gymnasium am Moltkeplatz, I socially engaged in the student-run humanitarian initiative Moltke für Afrika e.V. and played competitive tennis @HTC Blau-Weiß Krefeld.
+Motivation
+“Talent wins games, but teamwork and intelligence win championships” - Michael Jordan</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/blogs/aboutme/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/blogs/aboutme/</guid>
       <description></description>
     </item>
     

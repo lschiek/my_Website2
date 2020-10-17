@@ -38,7 +38,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Luca Schiek"
-    subtitle = "MFA 2021 & HSG alumnus"
+    subtitle = "MFA @LBS"
     menu = "Menu"
 
     [[params.navigation.links]]
@@ -91,7 +91,7 @@ disqusShortname = ""
       title = "About me"
       subtitle = "My Personal Journey"
       image = "aboutme.jpg"
-      url = "blogs/mypersonaljourney"
+      url = "blogs/aboutme"
 
     [[params.tiles.showcase]]
       title = "Tempus"
