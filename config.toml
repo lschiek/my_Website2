@@ -197,18 +197,18 @@ disqusShortname = ""
     #  label = "Twitter"
 
     [[params.footer.social]]
-      icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
+     # icon = "fa-facebook"
+     # url= "https://www.facebook.com"
+    #  label = "Facebook"
 
     [[params.footer.social]]
       icon = "fa-instagram"
-      url= "https://www.instagram.com"
+      url= "https://www.instagram.com/luca_shk/"
       label = "Instagram"
     
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com"
+      url= "https://github.com/lschiek"
       label = "GitHub"
 
     [[params.footer.social]]
