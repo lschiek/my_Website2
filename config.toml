@@ -94,10 +94,10 @@ disqusShortname = ""
       url = "blogs/aboutme"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
+      title = "Stock Analysis"
+      subtitle = "Performance Analysis of DJIA"
+      image = "buffet.jpg"
+      url = "blogs/stockreturns"
 
     [[params.tiles.showcase]]
       title = "Magna"
